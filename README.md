@@ -1,16 +1,20 @@
-## Hi there 👋
+# Mohammad Rezaalipour
 
-<!--
-**mohrez86/mohrez86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a recent PhD graduate in Informatics from [USI Università della Svizzera italiana](https://www.usi.ch/en), with a focus on software testing and analysis.
 
-Here are some ideas to get you started:
+For a detailed overview of my research, publications, projects, and recent news, please visit my [homepage](https://mohrez86.github.io).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with Me
+
+- [Homepage](https://mohrez86.github.io)
+- [LinkedIn](https://www.linkedin.com/in/m-rezaalipour)
+- [ResearchGate](https://www.researchgate.net/profile/Mohammad-Rezaalipour-2)
+- [Google Scholar](https://scholar.google.com/citations?user=CuQ9I_YAAAAJ)
+
+## Contact Me
+
+Feel free to reach out via **email** at rezaalipour [dot] mohammad [at] gmail [dot] com.
+
+---
+
+i am open to collaboration and discussions, so please do not hesitate to connect with me.
