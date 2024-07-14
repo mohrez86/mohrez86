@@ -17,4 +17,4 @@ Feel free to reach out via **email** at rezaalipour [dot] mohammad [at] gmail [d
 
 ---
 
-i am open to collaboration and discussions, so please do not hesitate to connect with me.
+I am open to collaboration and discussions, so please do not hesitate to connect with me.
